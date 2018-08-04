@@ -15,7 +15,7 @@ Requirements
 Installation
 ------------
 
-You can copy entire repository or just replace helper file `sendsms_helper.php` from application/helpers/ directory.
+You can copy entire repository or just replace helper file `sendsms_helper.php` from `application/helpers/` directory.
 Configure API key and Sender name in helper.
 
 Usage
