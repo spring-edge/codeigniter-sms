@@ -22,7 +22,7 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->helper('sendsms_helper');
 		
-		$response = sendsms( '919918xxxxxx', 'test message', true); 
+		$response = sendsms( '919918xxxxxx', 'Hello, This is a test message from spring edge', true); 
 		echo $response;
 
 	}

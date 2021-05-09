@@ -31,7 +31,7 @@ Example of sending message:
 
 ```
 //call this function to send sms
-sendsms( '919918xxxxxx', 'test message' ); 
+sendsms( '919918xxxxxx', 'Hello, This is a test message from spring edge' ); 
 
 ```
 
